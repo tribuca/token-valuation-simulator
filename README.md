@@ -13,7 +13,7 @@ A key innovation of this model is that not only does one user’s adoption exhib
 
 > “The green arrows point to the increases of the current and future (expected) levels of productivity A, which lead to higher flow utilities of tokens, and in turn, larger user bases N as highlighted by the black arrows. The blue arrows show that increases in user base result in even higher flow utility due to the contemporaneous network externality. Finally, more users push up the token prices P in future dates, which feed into a current expectation of token price appreciation, leading to greater current adoption.”
 
-Based on this model, we have customized the application has been developed by Junki Yuasa. So that we commit to further developing this model both incorporating token market illiquidity and serving as a means of payment among platform users that tokens can compensate resource contributors and reward platform founders and entrepreneurs.
+Based on this model, we have customized the application that has been developed by Junki Yuasa. So that we commit to further developing this model both incorporating token market illiquidity and serving as a means of payment among platform users that tokens can compensate resource contributors and reward platform founders and entrepreneurs.
 
 Since tokens affect the user-base dynamics, endogenous adoption is critical for understanding major asset pricing issues surrounding tokens, the model employs the ordinary differential equation for token valuation.
 
