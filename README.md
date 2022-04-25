@@ -27,11 +27,11 @@ We run the application to simulate a token price appreciation according to the b
 |chi | float | 1.0 | Scaling effect on Productivity. |
 |interest_rate | float | 0.005 | Risk-free rate. |
 |token_supply | int | 1000000000 | Token supply amount (fixed). |
-|BUCA (price) | float | 0.003 | Expected rate of return. |
+|BUCA (price) | float | TBD | Expected rate of return. |
 |initial_value (productivity) | float | 100.0 | Initial value of productivity. |
-|BUCA (productivity) | float | 0.0025 | Average of productivity. |
+|BUCA (productivity) | float | TBD | Average of productivity. |
 |sigma (productivity) | float | 2.0 | The standard deviation of productivity - is a unit to express failure rate. |
-|BUCA (utility) | float | 1.0 | Average utility of agents. |
+|BUCA (utility) | float | TBD | Average utility of agents. |
 |sigma (utility) | float | 10.0 | The standard deviation of the utility of the agents - gives insight into what happens to worst-case/n-sigma performance when controllable variables get changed. |
 
 When we increase the user (agent) numbers, it may indicate that a lower adoption now means more agents can be brought onto the platform in the future. Agents expect stronger token price appreciation, therefore, inducing them to adopt and hold tokens. 
